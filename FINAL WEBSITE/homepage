@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="style.css"> 
+
+<head>
+
+
+<title> WELCOME TO THE PURGATOURNEY! </title>
+
+<h1>WELCOME TO THE PURTATOURNEY!</h1>  
+
+<h4> 
+    <a href="aboutthepurgatorney">About the Purgatourney</a> 
+</h4>
+
+<h4> 
+    <a href="rulesandrewards">Rules and Rewards</a>
+</h4>
+
+<h4>
+
+
+    <a href="faq">FAQ</a>
+
+</h4>
+
+<h4>
+    <a href="contactus">CONTACT US</a>
+</h4>
+
+</head>
